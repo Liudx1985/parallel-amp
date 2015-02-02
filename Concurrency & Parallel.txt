@@ -1,0 +1,8 @@
+https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial/blob/master/Table-of-contents.md
+Concurrency：并发
+Parallel: 并行
+并发是一个处理器同时处理多个任务，而并行多个处理器或者是多核的处理器同时处理多个不同的任务。
+前者是逻辑上的同时发生（simultaneous），而后者是物理上的同时发生。
+
+而两者的联系是：并行的事件或活动一定是并发的，但反之并发的事件或活动未必是并行的。
+并行性是并发性的特例
